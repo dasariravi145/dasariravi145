@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1b27,25:243b55,50:3b82f6,75:7c3aed,100:1a1b27&text=Ravi%20Dasari&fontColor=c9d1d9&fontSize=52&fontAlignY=40&desc=Consultant%20%7C%20DevOps%20Engineer%20%7C%20Java%20Developer&descAlignY=62&animation=fadeIn" alt="Wave Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1b27,25:243b55,50:3b82f6,75:7c3aed,100:1a1b27&text=Ravi%20Dasari&fontColor=c9d1d9&fontSize=52&fontAlignY=40&desc=Cloud%20Engineer%20%7C%20DevOps%20Engineer" alt="Ravi Dasari" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Ravi+Dasari;Consultant+with+6.6+Years+of+Experience;DevOps+Engineer+%7C+Java+Developer;Building+Reliable+Cloud-Native+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Ravi+Dasari;Consultant+with+6.6+Years+in+IT;DevOps+Engineer+%7C+Cloud+Automation+Specialist;Java+Developer+with+2.6+Years+Experience" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=dasariravi145&style=for-the-badge&color=7aa2f7" alt="Visitor Counter" />
 
@@ -12,30 +12,21 @@
 
 ## 👨‍💼 Professional Introduction
 
-I’m **Ravi Dasari**, a **Consultant** with strong hands-on expertise in **DevOps** and **Java development**. I focus on building scalable systems, streamlining CI/CD practices, and enabling reliable application delivery across cloud-native environments.
+I’m Ravi Dasari, a Consultant with hands-on experience in DevOps and Java development. My work focuses on building reliable cloud-native systems, automating infrastructure, and improving software delivery pipelines across AWS and Kubernetes-based environments.
 
 ---
 
-## 🧭 About Me
-
-- 🔧 Consultant with practical delivery experience across development and operations.
-- ☁️ Passionate about infrastructure automation, container orchestration, and observability.
-- 🏗️ Experienced in designing and supporting microservices-based solutions.
-- 📈 Focused on stability, performance, and continuous improvement.
-
----
-
-## 📊 Experience
+## 📊 Experience Snapshot
 
 | Area | Experience |
 |---|---:|
-| Total IT Experience | **6.6 Years** |
-| DevOps | **4 Years** |
-| Java Development | **2.6 Years** |
+| Total IT Experience | 6.6 Years |
+| DevOps | 4 Years |
+| Java Development | 2.6 Years |
 
 ---
 
-## 🛠️ Professional Tech Stack
+## 🛠️ Technical Stack
 
 <div align="center">
 
@@ -55,7 +46,9 @@ I’m **Ravi Dasari**, a **Consultant** with strong hands-on expertise in **DevO
 ![Linux](https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Shell%20Scripting](https://img.shields.io/badge/Shell%20Scripting-1a1b27?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
 
-### Monitoring, Build & Databases
+### Build, Monitoring & Databases
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-1a1b27?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Jenkins](https://img.shields.io/badge/Jenkins-1a1b27?style=for-the-badge&logo=jenkins&logoColor=D24939)
 ![Grafana](https://img.shields.io/badge/Grafana-1a1b27?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Maven](https://img.shields.io/badge/Maven-1a1b27?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
 ![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=4479A1)
@@ -69,7 +62,7 @@ I’m **Ravi Dasari**, a **Consultant** with strong hands-on expertise in **DevO
 
 <div align="center">
 
-![DevOps Workflow](https://img.shields.io/badge/Plan-1a1b27?style=for-the-badge&logo=target&logoColor=7AA2F7)
+![Plan](https://img.shields.io/badge/Plan-1a1b27?style=for-the-badge&logo=target&logoColor=7AA2F7)
 ➡️
 ![Code](https://img.shields.io/badge/Code-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7)
 ➡️
@@ -89,7 +82,20 @@ I’m **Ravi Dasari**, a **Consultant** with strong hands-on expertise in **DevO
 
 ---
 
-## 🔗 LinkedIn Badge
+## 📚 Featured Projects
+
+- [RoboShop Docker Deployment](https://github.com/dasariravi145/roboshop-docker) — multi-service app deployed using Docker Compose.
+- [RoboShop AWS Dev Infra](https://github.com/dasariravi145/roboshop-infra-dev) — Terraform-based AWS infrastructure for a dev environment.
+- [RoboShop EKS Infra](https://github.com/dasariravi145/roboshop-infra-eks) — Kubernetes and AWS EKS automation using Terraform.
+- [Kubernetes RoboShop](https://github.com/dasariravi145/k8-roboshop) — Kubernetes manifests for deploying application components.
+- [Ansible RoboShop Roles](https://github.com/dasariravi145/ansible-roboshop-roles) — automation for role-based provisioning and configuration.
+- [Terraform Practice Repo](https://github.com/dasariravi145/terraform) — IaC and Terraform learning examples.
+- [Jenkins Pipeline](https://github.com/dasariravi145/jenkins) — build, test, and deploy pipeline workflow.
+- [Spring Boot Projects](https://github.com/dasariravi145?tab=repositories) — Java backend projects and application demos.
+
+---
+
+## 🔗 Connect
 
 <div align="center">
 
@@ -99,7 +105,7 @@ I’m **Ravi Dasari**, a **Consultant** with strong hands-on expertise in **DevO
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -108,28 +114,16 @@ I’m **Ravi Dasari**, a **Consultant** with strong hands-on expertise in **DevO
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasariravi145&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=dasariravi145&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
 </div>
 
 ---
 
 ## 📚 Current Learning
 
-- Advanced Kubernetes operations and workload optimization
-- Infrastructure as Code patterns with Terraform
-- Observability practices with Grafana-based monitoring
-- Reliability engineering for distributed microservices
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Let%27s%20Connect%20on-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ravi-dasari-7081232b6)
-
-</div>
+- Advanced Kubernetes operations and troubleshooting
+- Terraform and cloud infrastructure automation
+- Observability and service reliability
+- Java backend and microservices design patterns
 
 ---
 
