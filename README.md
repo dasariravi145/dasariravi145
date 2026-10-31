@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1b27,25:243b55,50:3b82f6,75:7c3aed,100:1a1b27&text=Ravi%20Dasari&fontColor=c9d1d9&fontSize=52&fontAlignY=40&desc=Cloud%20%26%20DevOps%20Engineer" alt="Ravi Dasari banner" />
-
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;text=Ravi%20Dasari&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=40&amp;desc=Cloud%20%26%20DevOps%20Engineer&amp;descAlignY=62"
+  alt="Ravi Dasari banner"
+  width="100%"
+/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Ravi+Dasari;Cloud+Engineer+%7C+DevOps+Practitioner;Java+Backend+Developer+%7C+Automation+Engineer" alt="Typing intro" />
 
 <img src="https://komarev.com/ghpvc/?username=dasariravi145&style=for-the-badge&color=7aa2f7" alt="Visitor counter" />
